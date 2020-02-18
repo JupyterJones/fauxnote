@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=Jtgbn3h3P9M
+
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
